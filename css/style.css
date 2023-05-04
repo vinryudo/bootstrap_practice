@@ -27,7 +27,7 @@ header li a {
 @media only screen and (min-width: 600px) {
     header{
         height: 80px;
-        padding-top: 20px;
+        padding-top: 24px;
     }
 }
 
